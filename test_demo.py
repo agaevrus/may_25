@@ -18,3 +18,5 @@ def test_demo1():
 
 def test_demo2(before_after):
     assert 2 == 2
+
+    # pytest -v -s Защита от дурака
