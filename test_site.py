@@ -16,3 +16,4 @@ def test_open_s6(browser):
     galaxy_s6 = browser.find_element(By.LINK_TEXT.find('Samsung galaxy s6')
     galaxy_s6.click()
 
+update
